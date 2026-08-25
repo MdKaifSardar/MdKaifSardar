@@ -222,6 +222,8 @@ I'm interested in understanding:
 
 # 📊 GitHub Activity
 
+# 📊 GitHub Stats
+
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=MdKaifSardar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
@@ -232,7 +234,11 @@ I'm interested in understanding:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdKaifSardar&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdKaifSardar&theme=github_dark" width="95%" />
+
+</div>
 
 ---
 
