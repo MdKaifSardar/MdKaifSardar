@@ -220,15 +220,18 @@ I'm interested in understanding:
 
 ---
 
-# 📊 GitHub Activity
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MdKaifSardar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKaifSardar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdKaifSardar&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdKaifSardar&theme=github_dark" />
+
+</div>
 
 </div>
 
