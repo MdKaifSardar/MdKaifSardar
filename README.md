@@ -1,265 +1,227 @@
 <div align="center">
 
-# Hey, I'm Kaif Sardar 👋
+```text
+██╗  ██╗ █████╗ ██╗███████╗    ███████╗ █████╗ ██████╗ ██████╗  █████╗ ██████╗
+██║ ██╔╝██╔══██╗██║██╔════╝    ██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+█████╔╝ ███████║██║█████╗      ███████╗███████║██████╔╝██║  ██║███████║██████╔╝
+██╔═██╗ ██╔══██║██║██╔══╝      ╚════██║██╔══██║██╔══██╗██║  ██║██╔══██║██╔══██╗
+██║  ██╗██║  ██║██║███████╗    ███████║██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-### Full-Stack Engineer · AI/GenAI Builder · Problem Solver
+### `software engineer in progress`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&center=true&vCenter=true&width=750&lines=Building+AI-powered+software+%F0%9F%A4%96;Engineering+modern+full-stack+systems+%F0%9F%9A%80;Exploring+LLMs%2C+agents+%26+AI+automation+%E2%9A%A1;Learning%2C+building+%26+solving+every+day+%F0%9F%A7%A0" />
-
-<br/>
-
-<a href="https://github.com/MdKaifSardar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/mdkaifsardar/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=720&lines=full-stack+%2B+backend+%2B+AI;building+systems%2C+not+just+interfaces;LLMs+%7C+agents+%7C+automation;curious+about+what+happens+under+the+hood" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+```text
+$ whoami
+```
 
-I'm a Computer Science student who enjoys building software at the intersection of **full-stack engineering and artificial intelligence**.
+I'm **Kaif** — a Computer Science student who likes building things across the
+software stack.
 
-My interests span from designing reliable backend systems and modern web applications to experimenting with **LLMs, Generative AI, intelligent automation, and agentic systems**.
+My sweet spot is where **software engineering meets AI**.
 
-I like understanding how things work under the hood, solving problems systematically, and turning ideas into software that people can actually use.
+I enjoy going from:
+
+`idea → architecture → implementation → deployment`
+
+and I'm especially interested in understanding the systems underneath the
+abstraction rather than just making APIs work.
+
+---
 
 ```text
-Full-Stack Engineering
-        ↓
-Backend & APIs
-        ↓
-AI / GenAI / LLMs
-        ↓
-Automation & Intelligent Systems
-        ↓
-Scalable Software
+$ cat interests.txt
+```
+
+```text
+01  Artificial Intelligence
+02  Generative AI & LLMs
+03  AI Agents & Agentic Systems
+04  Backend Engineering
+05  Distributed & Scalable Systems
+06  Full-Stack Development
+07  System Design
+08  Algorithms & Problem Solving
+09  Developer Tools & Automation
+10  Cloud Infrastructure
 ```
 
 ---
 
-## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Software Engineering
-
-* Full-stack web development
-* Backend engineering
-* REST & GraphQL APIs
-* Database design
-* Authentication & authorization
-* Real-time systems
-* Cloud & serverless architectures
-* System design
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Engineering
-
-* Generative AI applications
-* LLM integrations
-* Prompt engineering
-* AI automation
-* LLM-powered workflows
-* AI-assisted developer tools
-* Computer vision
-* Exploring AI agents & agentic systems
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Technical Skills
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-### Cloud & Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux" />
-</p>
-
----
-
-# 🧠 Engineering Interests
-
-I'm particularly interested in the following areas:
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🤖
-
-**Generative AI**
-
-LLMs
-AI Applications
-RAG
-AI Automation
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩
-
-**Backend Systems**
-
-APIs
-Architecture
-Databases
-Scalability
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-
-**Full Stack**
-
-React
-Next.js
-Node.js
-Modern Web
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Problem Solving**
-
-DSA
-Algorithms
-Optimization
-System Design
-
-</td>
-</tr>
-</table>
-
----
-
-# 🔬 Currently Exploring
+```text
+$ tree ~/tech-stack
+```
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  🤖  Agentic AI & Autonomous Workflows                    │
-│                                                            │
-│  🧠  LLM Applications & AI Engineering                    │
-│                                                            │
-│  🔍  RAG, Retrieval & Knowledge Systems                   │
-│                                                            │
-│  🏗️  Scalable Backend & Distributed Systems               │
-│                                                            │
-│  ☁️  Cloud Architecture & Serverless Infrastructure       │
-│                                                            │
-│  ⚡  High-performance Full-Stack Applications              │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+~/tech-stack
+│
+├── languages
+│   ├── C++
+│   ├── Java
+│   ├── Python
+│   ├── JavaScript
+│   └── TypeScript
+│
+├── frontend
+│   ├── React
+│   ├── Next.js
+│   ├── HTML
+│   ├── CSS
+│   └── Tailwind
+│
+├── backend
+│   ├── Node.js
+│   ├── REST
+│   ├── GraphQL
+│   └── API Design
+│
+├── data
+│   ├── PostgreSQL
+│   ├── MongoDB
+│   └── MySQL
+│
+├── ai
+│   ├── LLMs
+│   ├── Generative AI
+│   ├── AI Automation
+│   ├── Computer Vision
+│   └── AI Agents
+│
+└── infrastructure
+    ├── Git
+    ├── Docker
+    ├── Linux
+    ├── AWS
+    └── Serverless
 ```
 
 ---
 
-# 💡 How I Think About Engineering
+```text
+$ ./current_focus.sh
+```
 
-> **Build things. Understand the fundamentals. Question abstractions. Keep learning.**
+```text
+[████████████████████░░]  AI Engineering
 
-I care about more than just making something work.
+[██████████████████░░░░]  Backend Architecture
 
-I'm interested in understanding:
+[█████████████████░░░░░]  Full-Stack Systems
 
-* Why a system is designed the way it is
-* How it behaves under scale
-* Where bottlenecks appear
-* How data flows through a system
-* How AI can improve existing workflows
-* How to make software simpler, faster and more reliable
+[███████████████░░░░░░░]  Agentic AI
 
----
+[██████████████░░░░░░░░]  System Design
+```
 
-# 📊 GitHub Activity
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MdKaifSardar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKaifSardar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdKaifSardar&theme=github_dark" width="95%" />
-
-</div>
+> The bars aren't percentages.
+> They're just a reminder that there's always more to learn.
 
 ---
 
-# 🌐 Find Me
+## 🧠 The rabbit holes I'm currently exploring
+
+**LLMs**
+
+How do we build applications around language models that are actually
+useful beyond a chat interface?
+
+**Agents**
+
+How should autonomous workflows be designed, orchestrated and evaluated?
+
+**Backend systems**
+
+How do APIs, databases, queues, caching and services behave when the happy
+path disappears?
+
+**AI × Software Engineering**
+
+Where can AI genuinely improve the way software is built rather than simply
+adding an AI button?
+
+**System Design**
+
+How do you turn something that works into something that can survive scale?
+
+---
+
+```text
+$ git log --oneline --all
+```
+
+```text
+learn fundamentals
+        ↓
+build something
+        ↓
+break something
+        ↓
+figure out why
+        ↓
+fix it
+        ↓
+repeat
+```
+
+---
+
+## ⚙️ Engineering Philosophy
+
+```text
+Complexity is expensive.
+
+Abstractions are useful — until you stop understanding them.
+
+A working system is good.
+A system you understand is better.
+
+Build first.
+Measure.
+Question assumptions.
+Improve.
+```
+
+---
+
+## 📊 Some GitHub numbers
 
 <div align="center">
 
-<a href="https://github.com/MdKaifSardar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MdKaifSardar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<a href="https://www.linkedin.com/in/mdkaifsardar/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKaifSardar&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
 
-<br/>
+---
+
+```text
+$ echo $NEXT
+```
+
+```text
+→ build better software
+→ go deeper into AI engineering
+→ understand distributed systems
+→ explore agentic architectures
+→ keep solving interesting problems
+```
+
+---
 
 <div align="center">
 
-### Building → Learning → Breaking → Improving
+### `stay curious. build things. understand why.`
+
+<br/>
+
+<a href="https://github.com/MdKaifSardar">GitHub</a>
+  •   <a href="https://www.linkedin.com/in/mdkaifsardar/">LinkedIn</a>
 
 </div>
